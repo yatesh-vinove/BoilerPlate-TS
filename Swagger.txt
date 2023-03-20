@@ -1,0 +1,45 @@
+// /**
+//  * @swagger
+//  * /signup:
+//  *   post:
+//  *     summary: User SignUp.
+//  *     requestBody:
+//  *       required: true
+//  *       content:
+//  *         application/json:
+//  *           schema:
+//  *             type: object
+//  *             properties:
+//  *               fname:
+//  *                 type: string
+//  *                 description: Users First Name
+//  *                 example: John
+//  *              lname:
+//  *                 type: string
+//  *                 description: Users Last Name
+//  *                 example: Doe
+//  *              email:
+//  *                 type: string
+//  *                 description: Users Email Address
+//  *                 example: johndoe@gmail.com
+//  *               password:
+//  *                 type: string
+//  *                 description: Users password
+//  *                 example: 123456@qwerty.
+//  *     responses:
+//  *       200:
+//  *         description: test user is able to login
+//  */
+
+/**
+ * @swagger
+ * components:
+ *   schemas:
+ *     User:
+ *       type: object
+ *       properties:
+ *         name:
+ *           type: string
+ *           description: First Name.
+ *           example: John
+ */

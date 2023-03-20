@@ -1,0 +1,8 @@
+{
+  "invalid_email_password": "Geçersiz e-posta veya şifre",
+  "user_login_success": "Kullanıcı Başarıyla Giriş Yaptı",
+  "something_went_wrong":"Bazı hatalar oluştu, lütfen daha sonra tekrar deneyin",
+  "user_register_success":"Kullanıcı Başarıyla Kaydedildi",
+  "data_already_exist":"Veriler Zaten Var",
+  "not_found":"Bulunamadı"
+}

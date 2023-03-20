@@ -1,0 +1,8 @@
+{
+  "invalid_email_password": "Invalid Email or Password",
+  "user_login_success": "User Logged In SuccssFully",
+  "something_went_wrong":"Some error has occured, Please try again later",
+  "user_register_success":"User Registered SuccssFully",
+  "data_already_exist":"Data Already Exists",
+  "not_found":"Not Found"
+}
